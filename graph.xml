@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd" key="">
+    
+    <graph edgedefault="directed">
+        <node id="P1" />
+        <node id="P2" />
+        <node id="P3" />
+        <node id="P4" />
+        <node id="P5" />
+        <node id="P6" />
+        <node id="P7" />
+        <node id="P8" />
+        <node id="P9" />
+        <node id="P10" />
+        <node id="P11" />
+        <node id="P12" />
+        <node id="P13" />
+        <node id="P14" />
+        <node id="P15" />
+        <node id="P16" />
+        <node id="P17" />
+        <node id="P18" />
+        <node id="P19" />
+        <node id="P20" />
+        <edge source="P1" target="p5" />
+        <edge source="P2" target="P5" />
+        <edge source="P3" target="P5" />
+        <edge source="P4" target="P5" />
+        <edge source="P12" target="P5" />
+        <edge source="P6" target="P5" />
+        <edge source="P7" target="P5" />
+        <edge source="P8" target="P5" />
+        <edge source="P9" target="P12" />
+        <edge source="P10" target="P12" />
+        <edge source="P13" target="P12" />
+        <edge source="P14" target="P12" />
+        <edge source="P17" target="P12" />
+        <edge source="P18" target="P12" />
+        <edge source="P20" target="P15" />
+        <edge source="P1" target="P15" />
+        <edge source="P2" target="P15" />
+        <edge source="P5" target="P15" />
+        <edge source="P10" target="P1" />
+        <edge source="P6" target="P1" />
+        <edge source="P7" target="P3" />
+        <edge source="P8" target="P16" />
+        <edge source="P9" target="P16" />
+        <edge source="P10" target="P16" />
+        <edge source="P11" target="P16" />
+        <edge source="P12" target="P2" />
+        <edge source="P13" target="P2" />
+        <edge source="P14" target="P2" />
+        <edge source="P15" target="P8" />
+        <edge source="P16" target="P8" />
+        <edge source="P18" target="P17" />
+        <edge source="P19" target="P17" />
+        <edge source="P20" target="P17" />
+        <edge source="P1" target="P17" />
+        <edge source="P2" target="P17" />
+        <edge source="P3" target="P19" />
+        <edge source="P4" target="P19" />
+        <edge source="P5" target="P19" />
+        <edge source="P6" target="P19" />
+        <edge source="P7" target="P10" />
+        <edge source="P8" target="P10" />
+    </graph>
+    
+</graphml>
